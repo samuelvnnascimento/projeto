@@ -1,0 +1,5 @@
+console.log("novo arquivo")
+console.log(" novidadae nova ")
+console.log(" novidadae nova ")
+console.log(" novidadae nova ")
+console.log(" novidadae nova ")
